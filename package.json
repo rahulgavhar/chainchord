@@ -1,0 +1,26 @@
+{
+  "name": "chainchord",
+  "version": "1.0.0",
+  "description": "Decentralised music platform",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulgavhar/chainchord.git"
+  },
+  "keywords": [
+    "solidity"
+  ],
+  "author": "rahulgavhar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahulgavhar/chainchord/issues"
+  },
+  "homepage": "https://github.com/rahulgavhar/chainchord#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "react": "^18.3.1"
+  }
+}
